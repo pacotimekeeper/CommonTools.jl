@@ -1,0 +1,4 @@
+name = "CommonTools"
+uuid = "23920774-7254-4695-ae2b-e96aae4103be"
+authors = ["Paco Ho <pacotimekeeper>"]
+version = "0.1.0"
